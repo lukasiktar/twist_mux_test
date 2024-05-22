@@ -1,0 +1,30 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/istrazivac5/tello_ros2_ws/install/twist_mux_test/lib/python3.10/site-packages",
+        "/home/istrazivac5/tello_ros2_ws/install/tello_msgs/local/lib/python3.10/dist-packages",
+        "/home/istrazivac5/tello_ros2_ws/install/opencv_tests/lib/python3.10/site-packages",
+        "/home/istrazivac5/tello_ros2_ws/install/luka_dron/lib/python3.10/site-packages",
+        "/home/istrazivac5/tello_ros2_ws/install/image_geometry/local/lib/python3.10/dist-packages",
+        "/home/istrazivac5/tello_ros2_ws/install/cv_bridge/local/lib/python3.10/dist-packages",
+        "/home/istrazivac5/ros2_ws/install/python_parameters/lib/python3.10/site-packages",
+        "/home/istrazivac5/ros2_ws/install/py_srvcli/lib/python3.10/site-packages",
+        "/home/istrazivac5/ros2_ws/install/py_pubsub/lib/python3.10/site-packages",
+        "/home/istrazivac5/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/istrazivac5/tello_ros2_ws/install/twist_mux_test/lib/python3.10/site-packages",
+        "/home/istrazivac5/tello_ros2_ws/install/tello_msgs/local/lib/python3.10/dist-packages",
+        "/home/istrazivac5/tello_ros2_ws/install/opencv_tests/lib/python3.10/site-packages",
+        "/home/istrazivac5/tello_ros2_ws/install/luka_dron/lib/python3.10/site-packages",
+        "/home/istrazivac5/tello_ros2_ws/install/image_geometry/local/lib/python3.10/dist-packages",
+        "/home/istrazivac5/tello_ros2_ws/install/cv_bridge/local/lib/python3.10/dist-packages",
+        "/home/istrazivac5/ros2_ws/install/python_parameters/lib/python3.10/site-packages",
+        "/home/istrazivac5/ros2_ws/install/py_srvcli/lib/python3.10/site-packages",
+        "/home/istrazivac5/ros2_ws/install/py_pubsub/lib/python3.10/site-packages",
+        "/home/istrazivac5/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/istrazivac5/tello_ros2_ws/install/twist_mux/include/**",
+        "/home/istrazivac5/tello_ros2_ws/install/tello_msgs/include/**",
+        "/home/istrazivac5/tello_ros2_ws/install/ros2_shared/include/**",
+        "/home/istrazivac5/tello_ros2_ws/install/image_geometry/include/**",
+        "/home/istrazivac5/tello_ros2_ws/install/cv_bridge/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/istrazivac5/tello_ros2_ws/src/ros2_shared/include/**",
+        "/home/istrazivac5/tello_ros2_ws/src/tello_ros/tello_driver/include/**",
+        "/home/istrazivac5/tello_ros2_ws/src/tello_ros/tello_gazebo/include/**",
+        "/home/istrazivac5/tello_ros2_ws/src/vision_opencv/cv_bridge/include/**",
+        "/home/istrazivac5/tello_ros2_ws/src/vision_opencv/image_geometry/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
